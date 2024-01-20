@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since beginnig of 2023<br>📚 I'm currently learning JavaScript & Angular<br>🎯 Goals: improve my JS Skills <br>🎲 Fun fact: I love pizza, books & networking!<br>💻 My website: <a href="https://www.vanessakraemer.de">www.vanessakraemer.de</a></p>
+<p align="left">✨ Creating bugs since beginnig of 2023<br>📚 I'm currently learning JavaScript & Angular<br>🎯 Goals: improve my JS Skills <br>🎲 Fun fact: I love pizza, books & networking!<br>💻 My website: <a href="https://www.vanessakraemer.de" target="_blank">www.vanessakraemer.de</a></p>
 
 ###
 
